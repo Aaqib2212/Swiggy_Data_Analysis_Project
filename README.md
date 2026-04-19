@@ -1,10 +1,10 @@
 # Swiggy_Data_Analysis_Project
 An end-to-end **food delivery analytics project** built in Microsoft Excel, exploring Swiggy order data across India. The dataset spans **197,430 orders** across **28 states** over **8 months (Jan–Aug 2025)**, with insights into restaurant performance, dish-level pricing, ratings, and food preferences.
 
-## Dashboard Preview
+# Dashboard Preview
 Interactive Excel dashboard with KPI cards, pivot charts, and slicers for dynamic filtering by state, city, food type, and time period.
 
-## File Structure
+# File Structure
 
 ```
 Swiggy_Data_Analysis_Project.xlsx
@@ -15,7 +15,7 @@ Swiggy_Data_Analysis_Project.xlsx
 ```
 
 ---
-## Key Metrics
+# Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -28,7 +28,7 @@ Swiggy_Data_Analysis_Project.xlsx
 | Unique Dish Categories | ~5,000 |
 
 ---
-## Dataset Columns
+# Dataset Columns
 
 | Column | Description |
 |---|---|
@@ -48,7 +48,7 @@ Swiggy_Data_Analysis_Project.xlsx
 | `Rating Count` | Number of ratings received |
 
 ---
-## Analysis Highlights
+# Analysis Highlights
 
 - **Veg vs Non-Veg Split:** ~71% Veg (1,39,546) | ~29% Non-Veg (57,884)
 - **Price Range:** ₹0.95 (min) → ₹8,000 (max) | Median: ₹229
@@ -57,7 +57,7 @@ Swiggy_Data_Analysis_Project.xlsx
 - **Geographic Reach:** Pan-India — from Karnataka & Maharashtra to Sikkim & Mizoram
 
 ---
-## Tools & Techniques
+# Tools & Techniques
 
 - **Microsoft Excel**
   - Pivot Tables & Pivot Charts
@@ -68,7 +68,7 @@ Swiggy_Data_Analysis_Project.xlsx
   - Structured Tables (`Table1`)
 
 ---
-## How to Use
+# How to Use
 
 1. Download `Swiggy_Data_Analysis_Project.xlsx`
 2. Open in **Microsoft Excel** (2016 or later recommended)
@@ -77,7 +77,7 @@ Swiggy_Data_Analysis_Project.xlsx
 5. Explore the **Analysis** sheet for pivot-based breakdowns
 
 ---
-## Potential Extensions
+# Potential Extensions
 
 - [ ] Connect to Power BI for advanced visualizations
 - [ ] Automate data refresh using Power Query
